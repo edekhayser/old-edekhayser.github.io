@@ -443,7 +443,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   font-size: 75%;
   font-weight: 500;
   line-height: 1;
-  color: #ffffff;
+  color: #00C59E;
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
@@ -459,7 +459,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .label[href]:hover,
 .label[href]:focus {
-  color: #ffffff;
+  color: #00C59E;
   text-decoration: none;
   cursor: pointer;
 }
