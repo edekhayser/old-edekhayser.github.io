@@ -465,7 +465,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 
 .label-default {
-  background-color: #000000;
+  background-color: #999999;
 }
 
 .label-default[href]:hover,
